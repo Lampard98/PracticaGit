@@ -1,0 +1,14 @@
+21-MARZO-2019
+Hasta ahorita ya quedo la ventana de personal y vehiculos, hay que agregar el modal form en el navbar de todo el sitio.
+2-Abril-2019
+Checar en el navbar los submenus de "agregar" para que muestre la pantalla. 
+Modificar pantalla personal: 
+***Quitar "Editar" del comboBox
+Modificar pabtalla Editar personal:
+***Cambiar el "Agregar" por "Editar"
+Modificar pantalla vehiculos:
+***Cambiar items del comboBox por "N°Economico", "Matricula", "Tipo", "Estado"
+Modificar "Editar Vehiculo":  
+***Cambiar "Agregar" por "Editar"
+
+Recuerden que tenemos que entregar funcionalidad para el martes o estamos reprobado alv  :v
